@@ -1,20 +1,14 @@
-# Gebruik de officiële PHP 8.1 Apache-image als basis
 FROM php:8.1-apache
 
-# Zet de werkdirectory
 WORKDIR /var/www/html
 
-# Kopieer de bestanden naar de container
 COPY . /var/www/html/
 
-# Installeer benodigde PHP-extensies
 RUN docker-php-ext-install mysqli pdo pdo_mysql
 
-# Zorg dat de Apache-gebruiker toegang heeft tot de bestanden
 RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 755 /var/www/html
 
-# Configureer Apache om toegang te geven tot de document root en stel ServerName in
 RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf \
     && echo "<Directory /var/www/html/> \n\
     Options Indexes FollowSymLinks \n\
