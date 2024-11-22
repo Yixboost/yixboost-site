@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Error 403</title>
+    <style>
+        body {
+            background-color: #6a38c1;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        .center-image {
+            width: auto;
+            height: 200px;
+        }
+
+        .text {
+            color: white;
+            font-size: 48px;
+            margin-top: 20px;
+        }
+
+        .url {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .url a {
+            color: white;
+        }
+
+        .long-sentence {
+            color: white;
+            font-size: 14px;
+            margin-top: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="403.png" alt="Check" class="center-image">
+        <div class="text">Error 403...</div>
+        <div class="long-sentence">The page you are looking for is not in this universe...</div>
+        <div class="url"><a>Homepage</a></div>
+    </div>
+    <script>
+        window.onload = function() {
+          var homepageLink = document.querySelector('.url a');
+          var domain = window.location.protocol + '//' + window.location.hostname;
+          homepageLink.href = domain;
+        };
+      </script>
+      
+</body>
+</html>

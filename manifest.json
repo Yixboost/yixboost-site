@@ -1,0 +1,36 @@
+{
+  "name": "Yixboost Games",
+  "short_name": "Website",
+  "description": "Play many Games FREE on Yixboost Games",
+  "start_url": "/yixboost",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4285f4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "http://yixboost.nl.eu.org/yixboost/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "http://yixboost.nl.eu.org/yixboost/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "http://yixboost.nl.eu.org/yixboost/assets/images/1.png",
+      "sizes": "640x480",
+      "type": "image/png"
+    },
+    {
+      "src": "http://yixboost.nl.eu.org/yixboost/assets/images/2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "lang": "nl-NL",
+  "dir": "ltr"
+}

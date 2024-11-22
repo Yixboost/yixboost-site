@@ -1,0 +1,83 @@
+<!-- jQuery en Bootstrap -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin Scripts -->
+<script src="assets/js/isotope.min.js"></script>
+<script src="assets/js/owl-carousel.js"></script>
+<script src="assets/js/tabs.js"></script>
+<script src="assets/js/popup.js"></script>
+<script src="assets/js/custom.js"></script>
+
+<!-- Scroll To Top Button -->
+<script>
+    window.addEventListener("scroll", function () {
+        var scrollToTopButton = document.getElementById("scrollToTopButton");
+        if (window.pageYOffset > 100) {
+            scrollToTopButton.classList.add("show");
+        } else {
+            scrollToTopButton.classList.remove("show");
+        }
+    });
+
+    document.getElementById("scrollToTopButton").addEventListener("click", function () {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    });
+</script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7KHGF44319" type="text/javascript"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-7KHGF44319');
+</script>
+
+<!-- Tawk.to Live Chat -->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/65149036b1aaa13b7a795156/1hbc56lq3';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+
+<!-- CSS Reloading -->
+<script>
+    function reloadCSS() {
+        const links = [
+            "<?php echo (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') . $_SERVER['HTTP_HOST'] . '/'; ?>/yixboost/assets/font-awesome-6-pro-main/css/all.css",
+            "<?php echo (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') . $_SERVER['HTTP_HOST'] . '/'; ?>/yixboost/assets/css/templatemo-cyborg-gaming.css",
+            "assets/css/owl.css",
+            "assets/css/animate.css",
+            "https://unpkg.com/swiper@7/swiper-bundle.min.css"
+        ];
+
+        links.forEach(function(link) {
+            const newLink = document.createElement("link");
+            newLink.rel = "stylesheet";
+            newLink.href = link + "?v=" + new Date().getTime(); // Voeg timestamp toe aan de URL
+            document.head.appendChild(newLink);
+        });
+
+        const styleTags = document.querySelectorAll("style");
+        styleTags.forEach(function(styleTag) {
+            const newStyle = document.createElement("style");
+            newStyle.innerHTML = styleTag.innerHTML; // Kopieer de inhoud van de originele style tag
+            document.head.appendChild(newStyle);
+            styleTag.remove(); // Verwijder de oude style tag
+        });
+    }
+
+    window.onload = reloadCSS; // CSS wordt opnieuw geladen bij pagina-oplaadbeurt
+</script>

@@ -1,0 +1,30 @@
+[
+  {
+    "background": "assets/images/banner-bg.jpg",
+    "text1": "Welcome to Yixboost Games",
+    "text2": "Browse Our Popular Games Here",
+    "link": "/yixboost/suggest-game",
+    "link_text": "Suggest Games"
+  },
+  {
+    "background": "assets/images/banner-dc.jpg",
+    "text1": "Join Our Community",
+    "text2": "Join Our Discord for More Fun!",
+    "link": "https://discord.com/invite/tFSzDwGwZM",
+    "link_text": "Join Now"
+  },
+  {
+    "background": "assets/images/banner-yt.jpg",
+    "text1": "Stay Up-to-Date",
+    "text2": "Follow us on YouTube for More Updates",
+    "link": "https://youtube.com/@yixboost",
+    "link_text": "Subscribe"
+  },
+  {
+    "background": "assets/images/banner-sp.jpg",
+    "text1": "Suport our development",
+    "text2": "Support us for free by clicking this link",
+    "link": "https://zireemilsoude.net/4/8202985",
+    "link_text": "Click Here"
+  }
+]
