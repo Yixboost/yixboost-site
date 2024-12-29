@@ -1,0 +1,62 @@
+.modal-content {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.modal-header,
+.modal-footer {
+    border: none;
+}
+
+.modal-title,
+h1,
+h2 {
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    font-weight: 700;
+}
+
+.modal-body {
+    color: #e0e0e0;
+}
+
+.btn {
+    border: none;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background: linear-gradient(45deg, #00aeff, #a68eff);
+    box-shadow: 0 4px 15px rgba(0, 174, 255, 0.4);
+}
+
+.btn-primary:hover {
+    background: linear-gradient(45deg, #0095db, #8f75ff);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 174, 255, 0.6);
+}
+
+.cool-text {
+    letter-spacing: 1px;
+}
+
+.glow {
+    animation: glow 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #00aeff, 0 0 20px #00aeff;
+    }
+
+    to {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00aeff, 0 0 40px #00aeff;
+    }
+}

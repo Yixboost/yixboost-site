@@ -1,0 +1,1610 @@
+{
+    "upload-your-own": {
+        "name": "Upload your Own",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/test.html",
+        "views": 3126,
+        "image": "https://yixboost-games.github.io/upload-your-own/upload-your-own.png"
+    },
+    "super-mario-64": {
+        "name": "Super Mario 64",
+        "cat": "Emulator",
+        "new": "0",
+        "views": 14361,
+        "iframe": "https://yixboost-games.github.io/super-mario-64",
+        "image": "https://yixboost-games.github.io/super-mario-64/super-mario-64.png"
+    },
+    "jumpinghenk": {
+        "name": "Jumping Henk",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 1356,
+        "iframe": "https://yixboost-games.github.io/jumpinghenk",
+        "image": "https://yixboost-games.github.io/jumpinghenk/jumpinghenk.png"
+    },
+    "stonerain": {
+        "name": "Stone rain",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 728,
+        "iframe": "https://yixboost-games.github.io/stonerain",
+        "image": "https://yixboost-games.github.io/stonerain/stonerain.png"
+    },
+    "hexgl": {
+        "name": "HexGL",
+        "cat": "Racing",
+        "new": "0",
+        "views": 1833,
+        "iframe": "https://yixboost-games.github.io/hexgl",
+        "image": "https://yixboost-games.github.io/hexgl/hexgl.png"
+    },
+    "clumsy-bird": {
+        "name": "Clumsy Bird",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 2826,
+        "iframe": "https://yixboost-games.github.io/clumsy-bird",
+        "image": "https://yixboost-games.github.io/clumsy-bird/clumsy-bird.png"
+    },
+    "holey-io": {
+        "name": "Holey.io",
+        "cat": "IO Game",
+        "new": "0",
+        "views": 7844,
+        "iframe": "https://yixboost-games.github.io/holey-io",
+        "image": "https://yixboost-games.github.io/holey-io/holey-io.png"
+    },
+    "block-blast": {
+        "name": "Block Blast",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 75207,
+        "iframe": "https://yixboost-games.github.io/block-blast",
+        "image": "https://yixboost-games.github.io/block-blast/block-blast.png"
+    },
+    "hextris": {
+        "name": "Hextris",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 1573,
+        "iframe": "https://yixboost-games.github.io/hextris",
+        "image": "https://yixboost-games.github.io/hextris/hextris.png"
+    },
+    "tower-game": {
+        "name": "Tower Game",
+        "cat": "Building",
+        "new": "0",
+        "views": 673,
+        "iframe": "https://yixboost-games.github.io/tower-game",
+        "image": "https://yixboost-games.github.io/tower-game/tower-game.png"
+    },
+    "infinite-mario": {
+        "name": "Infinite Mario",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 1080,
+        "iframe": "https://yixboost-games.github.io/infinite-mario",
+        "image": "https://yixboost-games.github.io/infinite-mario/infinite-mario.png"
+    },
+    "tetris": {
+        "name": "Tetris",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 3950,
+        "iframe": "https://yixboost-games.github.io/tetris",
+        "image": "https://yixboost-games.github.io/tetris/tetris.png"
+    },
+    "mcm-cars": {
+        "name": "Madalin Cars",
+        "cat": "Racing",
+        "new": "0",
+        "views": 9675,
+        "iframe": "https://yixboost-games.github.io/mcm-cars",
+        "image": "https://yixboost-games.github.io/mcm-cars/mcm-cars.png"
+    },
+    "death-run-3d": {
+        "name": "Death Run 3D",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 10282,
+        "iframe": "https://yixboost-games.github.io/death-run-3d",
+        "image": "https://yixboost-games.github.io/death-run-3d/death-run-3d.png"
+    },
+    "paper-io": {
+        "name": "Paper.IO",
+        "cat": "IO Game",
+        "new": "0",
+        "views": 14107,
+        "iframe": "https://yixboost-games.github.io/paper-io",
+        "image": "https://yixboost-games.github.io/paper-io/paper-io.png"
+    },
+    "helix-jump": {
+        "name": "Helix Jump",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 11968,
+        "iframe": "https://yixboost-games.github.io/helix-jump",
+        "image": "https://yixboost-games.github.io/helix-jump/helix-jump.png"
+    },
+    "run3": {
+        "name": "Run 3",
+        "cat": "Running",
+        "new": "0",
+        "views": 7995,
+        "iframe": "https://yixboost-games.github.io/run3",
+        "image": "https://yixboost-games.github.io/run3/run3.png"
+    },
+    "tunnelrush2": {
+        "name": "Tunnel Rush 2",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 3512,
+        "iframe": "https://yixboost-games.github.io/tunnelrush2",
+        "image": "https://yixboost-games.github.io/tunnelrush2/tunnelrush2.png"
+    },
+    "stickman-hook": {
+        "name": "Stickman Hook",
+        "cat": "Stickman",
+        "new": "0",
+        "views": 10313,
+        "iframe": "https://yixboost-games.github.io/stickman-hook",
+        "image": "https://yixboost-games.github.io/stickman-hook/stickman-hook.png"
+    },
+    "stick-merge": {
+        "name": "Stick Merge",
+        "cat": "Shooter",
+        "new": "0",
+        "views": 4863,
+        "iframe": "https://yixboost-games.github.io/stick-merge",
+        "image": "https://yixboost-games.github.io/stick-merge/stick-merge.png"
+    },
+    "monkey-mart": {
+        "name": "Monkey Mart",
+        "cat": "Idle",
+        "new": "0",
+        "views": 19502,
+        "iframe": "https://yixboost-games.github.io/monkey-mart",
+        "image": "https://yixboost-games.github.io/monkey-mart/monkey-mart.png"
+    },
+    "1v1-lol": {
+        "name": "1v1 LOL",
+        "cat": "Shooter",
+        "new": "0",
+        "views": 46736,
+        "iframe": "https://yixboost-games.github.io/1v1-lol",
+        "image": "https://yixboost-games.github.io/1v1-lol/1v1-lol.png"
+    },
+    "bitlife": {
+        "name": "Bitlife",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 26663,
+        "iframe": "https://yixboost-games.github.io/bitlife",
+        "image": "https://yixboost-games.github.io/bitlife/bitlife.png"
+    },
+    "colortunnel": {
+        "name": "Color Tunnel",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 5886,
+        "iframe": "https://yixboost-games.github.io/colortunnel",
+        "image": "https://yixboost-games.github.io/colortunnel/colortunnel.png"
+    },
+    "drive-mad": {
+        "name": "Drive Mad",
+        "cat": "Car",
+        "new": "0",
+        "views": 15883,
+        "iframe": "https://yixboost-games.github.io/drive-mad",
+        "image": "https://yixboost-games.github.io/drive-mad/drive-mad.png"
+    },
+    "hole-io": {
+        "name": "Hole IO",
+        "cat": "IO Game",
+        "new": "0",
+        "views": 9060,
+        "iframe": "https://yixboost-games.github.io/hole-io",
+        "image": "https://yixboost-games.github.io/hole-io/hole-io.png"
+    },
+    "mineclone": {
+        "name": "Mineclone",
+        "cat": "Building",
+        "new": "0",
+        "views": 1603,
+        "iframe": "https://yixboost-games.github.io/mineclone",
+        "image": "https://yixboost-games.github.io/mineclone/mineclone.png"
+    },
+    "retrobowl": {
+        "name": "Retro Bowl",
+        "cat": "Sport",
+        "new": "0",
+        "views": 270666,
+        "iframe": "https://yixboost-games.github.io/retrobowl",
+        "image": "https://yixboost-games.github.io/retrobowl/retrobowl.png"
+    },
+    "rooftop-snipers": {
+        "name": "Rooftop Snipers",
+        "cat": "Battle",
+        "new": "0",
+        "views": 8062,
+        "iframe": "https://yixboost-games.github.io/rooftop-snipers",
+        "image": "https://yixboost-games.github.io/rooftop-snipers/rooftop-snipers.png"
+    },
+    "slither-io": {
+        "name": "Slither IO",
+        "cat": "IO Game",
+        "new": "0",
+        "views": 6727,
+        "iframe": "https://yixboost-games.github.io/slither-io",
+        "image": "https://yixboost-games.github.io/slither-io/slither-io.png"
+    },
+    "slope": {
+        "name": "Slope",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 21776,
+        "iframe": "https://yixboost-games.github.io/slope",
+        "image": "https://yixboost-games.github.io/slope/slope.png"
+    },
+    "venge": {
+        "name": "Venge IO",
+        "cat": "Shooter",
+        "new": "0",
+        "views": 3343,
+        "iframe": "https://yixboost-games.github.io/venge",
+        "image": "https://yixboost-games.github.io/venge/venge.png"
+    },
+    "basket-random": {
+        "name": "Basket Random",
+        "cat": "Sport",
+        "new": "0",
+        "views": 18749,
+        "iframe": "https://yixboost-games.github.io/basket-random",
+        "image": "https://yixboost-games.github.io/basket-random/basket-random.png"
+    },
+    "soccer-random": {
+        "name": "Soccer Random",
+        "cat": "Sport",
+        "new": "0",
+        "views": 8517,
+        "iframe": "https://yixboost-games.github.io/soccer-random",
+        "image": "https://yixboost-games.github.io/soccer-random/soccer-random.png"
+    },
+    "3d-bowling": {
+        "name": "3D Bowling",
+        "cat": "Sport",
+        "new": "0",
+        "views": 2032,
+        "iframe": "https://yixboost-games.github.io/3d-bowling",
+        "image": "https://yixboost-games.github.io/3d-bowling/3d-bowling.png"
+    },
+    "adventure-drivers": {
+        "name": "Adventure Drivers",
+        "cat": "Car",
+        "new": "0",
+        "views": 1078,
+        "iframe": "https://yixboost-games.github.io/adventure-drivers",
+        "image": "https://yixboost-games.github.io/adventure-drivers/adventure-drivers.png"
+    },
+    "among-us": {
+        "name": "Among Us",
+        "cat": "Battle",
+        "new": "0",
+        "views": 5785,
+        "iframe": "https://yixboost-games.github.io/among-us",
+        "image": "https://yixboost-games.github.io/among-us/among-us.png"
+    },
+    "awesome-tanks-2": {
+        "name": "Awesome Tanks 2",
+        "cat": "Battle",
+        "new": "0",
+        "views": 2950,
+        "iframe": "https://yixboost-games.github.io/awesome-tanks-2",
+        "image": "https://yixboost-games.github.io/awesome-tanks-2/awesome-tanks-2.png"
+    },
+    "ball-sort-soccer": {
+        "name": "Ball Sort Soccer",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 698,
+        "iframe": "https://yixboost-games.github.io/ball-sort-soccer",
+        "image": "https://yixboost-games.github.io/ball-sort-soccer/ball-sort-soccer.png"
+    },
+    "chicken-merge": {
+        "name": "Chicken Merge",
+        "cat": "Battle",
+        "new": "0",
+        "views": 2091,
+        "iframe": "https://yixboost-games.github.io/chicken-merge",
+        "image": "https://yixboost-games.github.io/chicken-merge/chicken-merge.png"
+    },
+    "crazy-cars": {
+        "name": "Crazy Cars",
+        "cat": "Car",
+        "new": "0",
+        "views": 4730,
+        "iframe": "https://yixboost-games.github.io/crazy-cars",
+        "image": "https://yixboost-games.github.io/crazy-cars/crazy-cars.png"
+    },
+    "crossy-road": {
+        "name": "Crossy Road",
+        "cat": "Running",
+        "new": "0",
+        "views": 5666,
+        "iframe": "https://yixboost-games.github.io/crossy-road",
+        "image": "https://yixboost-games.github.io/crossy-road/crossy-road.png"
+    },
+    "dino-bros": {
+        "name": "Dino Bros",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 1877,
+        "iframe": "https://yixboost-games.github.io/dino-bros",
+        "image": "https://yixboost-games.github.io/dino-bros/dino-bros.png"
+    },
+    "fishing-frenzy": {
+        "name": "Fishing Frenzy",
+        "cat": "Kids",
+        "new": "0",
+        "views": 844,
+        "iframe": "https://yixboost-games.github.io/fishing-frenzy",
+        "image": "https://yixboost-games.github.io/fishing-frenzy/fishing-frenzy.png"
+    },
+    "football-strike": {
+        "name": "Football Strike",
+        "cat": "Sport",
+        "new": "0",
+        "views": 8126,
+        "iframe": "https://yixboost-games.github.io/football-strike",
+        "image": "https://yixboost-games.github.io/football-strike/football-strike.png"
+    },
+    "hanger": {
+        "name": "Hanger",
+        "cat": "Stickman",
+        "new": "0",
+        "views": 2652,
+        "iframe": "https://yixboost-games.github.io/hanger",
+        "image": "https://yixboost-games.github.io/hanger/hanger.png"
+    },
+    "idle-restaurants": {
+        "name": "Idle Restaurants",
+        "cat": "Idle",
+        "new": "0",
+        "views": 2324,
+        "iframe": "https://yixboost-games.github.io/idle-restaurants",
+        "image": "https://yixboost-games.github.io/idle-restaurants/idle-restaurants.png"
+    },
+    "money-movers": {
+        "name": "Money Movers",
+        "cat": "Battle",
+        "new": "0",
+        "views": 979,
+        "iframe": "https://yixboost-games.github.io/money-movers",
+        "image": "https://yixboost-games.github.io/money-movers/money-movers.png"
+    },
+    "ninja-cat": {
+        "name": "Ninja Cat",
+        "cat": "Battle",
+        "new": "0",
+        "views": 501,
+        "iframe": "https://yixboost-games.github.io/ninja-cat",
+        "image": "https://yixboost-games.github.io/ninja-cat/ninja-cat.png"
+    },
+    "parking-fury": {
+        "name": "Parking Fury",
+        "cat": "Car",
+        "new": "0",
+        "views": 2644,
+        "iframe": "https://yixboost-games.github.io/parking-fury",
+        "image": "https://yixboost-games.github.io/parking-fury/parking-fury.png"
+    },
+    "pizza-tower": {
+        "name": "Pizza Tower",
+        "cat": "Running",
+        "new": "0",
+        "views": 4927,
+        "iframe": "https://yixboost-games.github.io/pizza-tower",
+        "image": "https://yixboost-games.github.io/pizza-tower/pizza-tower.png"
+    },
+    "rabbit-samurai-2": {
+        "name": "Rabbit Samurai 2",
+        "cat": "Running",
+        "new": "0",
+        "views": 801,
+        "iframe": "https://yixboost-games.github.io/rabbit-samurai-2",
+        "image": "https://yixboost-games.github.io/rabbit-samurai-2/rabbit-samurai-2.png"
+    },
+    "roper": {
+        "name": "Roper",
+        "cat": "Shooter",
+        "new": "0",
+        "views": 2535,
+        "iframe": "https://yixboost-games.github.io/roper",
+        "image": "https://yixboost-games.github.io/roper/roper.png"
+    },
+    "run3-space": {
+        "name": "Run 3 Space",
+        "cat": "Running",
+        "new": "0",
+        "views": 1975,
+        "iframe": "https://yixboost-games.github.io/run3-space",
+        "image": "https://yixboost-games.github.io/run3-space/run3-space.png"
+    },
+    "tower-crash-3d": {
+        "name": "Tower Crash 3D",
+        "cat": "Building",
+        "new": "0",
+        "views": 1451,
+        "iframe": "https://yixboost-games.github.io/tower-crash-3d",
+        "image": "https://yixboost-games.github.io/tower-crash-3d/tower-crash-3d.png"
+    },
+    "wordslide": {
+        "name": "Word Slide",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 525,
+        "iframe": "https://yixboost-games.github.io/wordslide",
+        "image": "https://yixboost-games.github.io/wordslide/wordslide.png"
+    },
+    "volley-random": {
+        "name": "Volley Random",
+        "cat": "Sport",
+        "new": "0",
+        "views": 6386,
+        "iframe": "https://yixboost-games.github.io/volley-random",
+        "image": "https://yixboost-games.github.io/volley-random/volley-random.png"
+    },
+    "boxing-random": {
+        "name": "Boxing Random",
+        "cat": "Sport",
+        "new": "0",
+        "views": 6284,
+        "iframe": "https://yixboost-games.github.io/boxing-random",
+        "image": "https://yixboost-games.github.io/boxing-random/boxing-random.png"
+    },
+    "blumgi-slime": {
+        "name": "Blumgi Slime",
+        "cat": "2 Player",
+        "new": "0",
+        "views": 2444,
+        "iframe": "https://yixboost-games.github.io/blumgi-slime",
+        "image": "https://yixboost-games.github.io/blumgi-slime/blumgi-slime.png"
+    },
+    "unicycle-hero": {
+        "name": "Unicycle Hero",
+        "cat": "Sport",
+        "new": "0",
+        "views": 10243,
+        "iframe": "https://yixboost-games.github.io/unicycle-hero",
+        "image": "https://yixboost-games.github.io/unicycle-hero/unicycle-hero.png"
+    },
+    "angry-birds": {
+        "name": "Angry Birds",
+        "cat": "Funny",
+        "new": "0",
+        "views": 5126,
+        "iframe": "https://yixboost-games.github.io/angry-birds",
+        "image": "https://yixboost-games.github.io/angry-birds/angry-birds.png"
+    },
+    "awesome-run": {
+        "name": "Awesome Run",
+        "cat": "Running",
+        "new": "0",
+        "views": 602,
+        "iframe": "https://yixboost-games.github.io/awesome-run",
+        "image": "https://yixboost-games.github.io/awesome-run/awesome-run.png"
+    },
+    "candy-crush": {
+        "name": "Candy Crush",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 2926,
+        "iframe": "https://yixboost-games.github.io/candy-crush",
+        "image": "https://yixboost-games.github.io/candy-crush/candy-crush.png"
+    },
+    "cluster-rush": {
+        "name": "Cluster Rush",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 29013,
+        "iframe": "https://yixboost-games.github.io/cluster-rush",
+        "image": "https://yixboost-games.github.io/cluster-rush/cluster-rush.png"
+    },
+    "craft-mine": {
+        "name": "CraftMine",
+        "cat": "Building",
+        "new": "0",
+        "views": 909,
+        "iframe": "https://yixboost-games.github.io/craft-mine",
+        "image": "https://yixboost-games.github.io/craft-mine/craft-mine.png"
+    },
+    "cubito-mayhem": {
+        "name": "Cubito Mayhem",
+        "cat": "Battle",
+        "new": "0",
+        "views": 174,
+        "iframe": "https://yixboost-games.github.io/cubito-mayhem",
+        "image": "https://yixboost-games.github.io/cubito-mayhem/cubito-mayhem.png"
+    },
+    "google-snake": {
+        "name": "Google Snake",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 2585,
+        "iframe": "https://yixboost-games.github.io/google-snake",
+        "image": "https://yixboost-games.github.io/google-snake/google-snake.png"
+    },
+    "merge-round-racers": {
+        "name": "Merge Roud Racers",
+        "cat": "Racing",
+        "new": "0",
+        "views": 5757,
+        "iframe": "https://yixboost-games.github.io/merge-round-racers",
+        "image": "https://yixboost-games.github.io/merge-round-racers/merge-round-racers.png"
+    },
+    "papas-pizzeria": {
+        "name": "Papa's Pizzeria",
+        "cat": "Idle",
+        "new": "0",
+        "views": 1987,
+        "iframe": "https://yixboost-games.github.io/papas-pizzeria",
+        "image": "https://yixboost-games.github.io/papas-pizzeria/papas-pizzeria.png"
+    },
+    "red-ball-4": {
+        "name": "Red Ball 4",
+        "cat": "Kids",
+        "new": "0",
+        "views": 976,
+        "iframe": "https://yixboost-games.github.io/red-ball-4",
+        "image": "https://yixboost-games.github.io/red-ball-4/red-ball-4.png"
+    },
+    "riddle-school-2": {
+        "name": "Riddle School 2",
+        "cat": "Funny",
+        "new": "0",
+        "views": 1674,
+        "iframe": "https://yixboost-games.github.io/riddle-school-2",
+        "image": "https://yixboost-games.github.io/riddle-school-2/riddle-school-2.png"
+    },
+    "tiny-fishing": {
+        "name": "Tiny Fishing",
+        "cat": "Kids",
+        "new": "0",
+        "views": 2586,
+        "iframe": "https://yixboost-games.github.io/tiny-fishing",
+        "image": "https://yixboost-games.github.io/tiny-fishing/tiny-fishing.png"
+    },
+    "rooftop-snipers-2": {
+        "name": "Rooftop Snipers 2",
+        "cat": "Battle",
+        "new": "0",
+        "views": 3379,
+        "iframe": "https://yixboost-games.github.io/rooftop-snipers-2",
+        "image": "https://yixboost-games.github.io/rooftop-snipers-2/rooftop-snipers-2.png"
+    },
+    "getaway-shootout": {
+        "name": "Getaway Shootout",
+        "cat": "Battle",
+        "new": "0",
+        "views": 10782,
+        "iframe": "https://yixboost-games.github.io/getaway-shootout",
+        "image": "https://yixboost-games.github.io/getaway-shootout/getaway-shootout.png"
+    },
+    "gun-mayhem": {
+        "name": "Gun Mayhem",
+        "cat": "Battle",
+        "new": "0",
+        "views": 354,
+        "iframe": "https://yixboost-games.github.io/gun-mayhem",
+        "image": "https://yixboost-games.github.io/gun-mayhem/gun-mayhem.png"
+    },
+    "gun-mayhem-2": {
+        "name": "Gun Mayhem 2",
+        "cat": "Battle",
+        "new": "0",
+        "views": 1520,
+        "iframe": "https://yixboost-games.github.io/gun-mayhem-2",
+        "image": "https://yixboost-games.github.io/gun-mayhem-2/gun-mayhem-2.png"
+    },
+    "subway-surfers": {
+        "name": "Subway Surfers",
+        "cat": "Running",
+        "new": "0",
+        "views": 24366,
+        "iframe": "https://yixboost-games.github.io/subway-surfers",
+        "image": "https://yixboost-games.github.io/subway-surfers/subway-surfers.png"
+    },
+    "going-balls": {
+        "name": "Going Balls",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 1478,
+        "iframe": "https://yixboost-games.github.io/going-balls",
+        "image": "https://yixboost-games.github.io/going-balls/going-balls.png"
+    },
+    "temple-run-2": {
+        "name": "Temple Run 2",
+        "cat": "Running",
+        "new": "0",
+        "views": 3812,
+        "iframe": "https://yixboost-games.github.io/temple-run-2",
+        "image": "https://yixboost-games.github.io/temple-run-2/temple-run-2.png"
+    },
+    "cookie-clicker": {
+        "name": "Cookie Clicker",
+        "cat": "Kids",
+        "new": "0",
+        "views": 81288,
+        "iframe": "https://yixboost-games.github.io/cookie-clicker",
+        "image": "https://yixboost-games.github.io/cookie-clicker/cookie-clicker.png"
+    },
+    "just-fall-lol": {
+        "name": "Just Fall LOL",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 7202,
+        "iframe": "https://yixboost-games.github.io/just-fall-lol",
+        "image": "https://yixboost-games.github.io/just-fall-lol/just-fall-lol.png"
+    },
+    "basketbros-io": {
+        "name": "BasketBros IO",
+        "cat": "Sport",
+        "new": "0",
+        "views": 1351,
+        "iframe": "https://yixboost-games.github.io/basketbros-io",
+        "image": "https://yixboost-games.github.io/basketbros-io/basketbros-io.png"
+    },
+    "basketball-legends": {
+        "name": "Basketball Legends",
+        "cat": "Sport",
+        "new": "0",
+        "views": 1678,
+        "iframe": "https://yixboost-games.github.io/basketball-legends",
+        "image": "https://yixboost-games.github.io/basketball-legends/basketball-legends.png"
+    },
+    "chrome-dino": {
+        "name": "Chrome Dino",
+        "cat": "Running",
+        "new": "0",
+        "views": 1959,
+        "iframe": "https://yixboost-games.github.io/chrome-dino",
+        "image": "https://yixboost-games.github.io/chrome-dino/chrome-dino.png"
+    },
+    "blocky-snakes": {
+        "name": "Blocky Snakes",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 2037,
+        "iframe": "https://yixboost-games.github.io/blocky-snakes",
+        "image": "https://yixboost-games.github.io/blocky-snakes/blocky-snakes.png"
+    },
+    "geodash": {
+        "name": "Geometry Dash",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 11646,
+        "iframe": "https://yixboost-games.github.io/geodash",
+        "image": "https://yixboost-games.github.io/geodash/geodash.png"
+    },
+    "eggy-car": {
+        "name": "Eggy Car",
+        "cat": "Car",
+        "new": "0",
+        "views": 2840,
+        "iframe": "https://yixboost-games.github.io/eggy-car",
+        "image": "https://yixboost-games.github.io/eggy-car/eggy-car.png"
+    },
+    "driftboss": {
+        "name": "Driftboss",
+        "cat": "Car",
+        "new": "0",
+        "views": 3221,
+        "iframe": "https://yixboost-games.github.io/driftboss",
+        "image": "https://yixboost-games.github.io/driftboss/driftboss.png"
+    },
+    "basketball-stars": {
+        "name": "Basketball Stars",
+        "cat": "Sport",
+        "new": "0",
+        "views": 3914,
+        "iframe": "https://yixboost-games.github.io/basketball-stars",
+        "image": "https://yixboost-games.github.io/basketball-stars/basketball-stars.png"
+    },
+    "motox3m-winter": {
+        "name": "Moto X3M Winter",
+        "cat": "Racing",
+        "new": "0",
+        "views": 6470,
+        "iframe": "https://yixboost-games.github.io/motox3m-winter",
+        "image": "https://yixboost-games.github.io/motox3m-winter/motox3m-winter.png"
+    },
+    "motox3m-2": {
+        "name": "Moto X3M 2",
+        "cat": "Racing",
+        "new": "0",
+        "views": 8997,
+        "iframe": "https://yixboost-games.github.io/motox3m-2",
+        "image": "https://yixboost-games.github.io/motox3m-2/motox3m-2.png"
+    },
+    "motox3m-spooky": {
+        "name": "Moto X3M Spooky",
+        "cat": "Racing",
+        "new": "0",
+        "views": 4740,
+        "iframe": "https://yixboost-games.github.io/motox3m-spooky",
+        "image": "https://yixboost-games.github.io/motox3m-spooky/motox3m-spooky.png"
+    },
+    "motox3m-pool": {
+        "name": "Moto X3M Pool",
+        "cat": "Racing",
+        "new": "0",
+        "views": 3427,
+        "iframe": "https://yixboost-games.github.io/motox3m-pool",
+        "image": "https://yixboost-games.github.io/motox3m-pool/motox3m-pool.png"
+    },
+    "minecraft-classic": {
+        "name": "Minecraft Classic",
+        "cat": "Building",
+        "new": "0",
+        "views": 3785,
+        "iframe": "https://yixboost-games.github.io/minecraft-classic",
+        "image": "https://yixboost-games.github.io/minecraft-classic/minecraft-classic.png"
+    },
+    "slope-2": {
+        "name": "Slope 2",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 2870,
+        "iframe": "https://yixboost-games.github.io/slope-2",
+        "image": "https://yixboost-games.github.io/slope-2/slope-2.png"
+    },
+    "the-impossible-quiz": {
+        "name": "The Impossible Quiz",
+        "cat": "Funny",
+        "new": "0",
+        "views": 1956,
+        "iframe": "https://yixboost-games.github.io/the-impossible-quiz",
+        "image": "https://yixboost-games.github.io/the-impossible-quiz/the-impossible-quiz.png"
+    },
+    "the-impossible-quiz2": {
+        "name": "The Impossible Quiz 2",
+        "cat": "Funny",
+        "new": "0",
+        "views": 417,
+        "iframe": "https://yixboost-games.github.io/the-impossible-quiz2",
+        "image": "https://yixboost-games.github.io/the-impossible-quiz2/the-impossible-quiz2.png"
+    },
+    "2048-game": {
+        "name": "2048",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 1345,
+        "iframe": "https://yixboost-games.github.io/2048-game",
+        "image": "https://yixboost-games.github.io/2048-game/2048-game.png"
+    },
+    "cars-simulator": {
+        "name": "Cars Simulator",
+        "cat": "Car",
+        "new": "0",
+        "views": 2818,
+        "iframe": "https://yixboost-games.github.io/cars-simulator",
+        "image": "https://yixboost-games.github.io/cars-simulator/cars-simulator.png"
+    },
+    "tube-jumpers": {
+        "name": "Tube Jumpers",
+        "cat": "2 Player",
+        "new": "0",
+        "views": 1330,
+        "iframe": "https://yixboost-games.github.io/tube-jumpers",
+        "image": "https://yixboost-games.github.io/tube-jumpers/tube-jumpers.png"
+    },
+    "madalin2": {
+        "name": "Madalin Stunt Cars 2",
+        "cat": "Car",
+        "new": "0",
+        "views": 5044,
+        "iframe": "https://yixboost-games.github.io/madalin2",
+        "image": "https://yixboost-games.github.io/madalin2/madalin2.png"
+    },
+    "pacman": {
+        "name": "Pacman",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 1337,
+        "iframe": "https://yixboost-games.github.io/pacman",
+        "image": "https://yixboost-games.github.io/pacman/pacman.png"
+    },
+    "minesweeper": {
+        "name": "Minesweeper",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 113,
+        "iframe": "https://yixboost-games.github.io/minesweeper",
+        "image": "https://yixboost-games.github.io/minesweeper/minesweeper.png"
+    },
+    "mario": {
+        "name": "Super Mario Bros",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 3126,
+        "iframe": "https://yixboost-games.github.io/mario",
+        "image": "https://yixboost-games.github.io/mario/mario.png"
+    },
+    "cupcake2048": {
+        "name": "Cupcake 2048",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 739,
+        "iframe": "https://yixboost-games.github.io/cupcake2048",
+        "image": "https://yixboost-games.github.io/cupcake2048/cupcake2048.png"
+    },
+    "age-of-war": {
+        "name": "Age of War",
+        "cat": "Battle",
+        "new": "0",
+        "views": 958,
+        "iframe": "https://yixboost-games.github.io/age-of-war",
+        "image": "https://yixboost-games.github.io/age-of-war/age-of-war.png"
+    },
+    "slowroads": {
+        "name": "Slowroads",
+        "cat": "Car",
+        "new": "0",
+        "views": 58162,
+        "iframe": "https://yixboost-games.github.io/slowroads",
+        "image": "https://yixboost-games.github.io/slowroads/slowroads.png"
+    },
+    "riddle-school-3": {
+        "name": "Riddle School 3",
+        "cat": "Funny",
+        "new": "0",
+        "views": 1716,
+        "iframe": "https://yixboost-games.github.io/riddle-school-3",
+        "image": "https://yixboost-games.github.io/riddle-school-3/riddle-school-3.png"
+    },
+    "riddle-school-1": {
+        "name": "Riddle School 1",
+        "cat": "Funny",
+        "new": "0",
+        "views": 1630,
+        "iframe": "https://yixboost-games.github.io/riddle-school-1",
+        "image": "https://yixboost-games.github.io/riddle-school-1/riddle-school-1.png"
+    },
+    "eaglercraft": {
+        "name": "Eaglercraft",
+        "cat": "Building",
+        "new": "0",
+        "views": 16826,
+        "iframe": "https://yixboost-games.github.io/eaglercraft",
+        "image": "https://yixboost-games.github.io/eaglercraft/eaglercraft.png"
+    },
+    "super-tic-tac-toe": {
+        "name": "Super Tic Tac Toe",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 1114,
+        "iframe": "https://yixboost-games.github.io/super-tic-tac-toe",
+        "image": "https://yixboost-games.github.io/super-tic-tac-toe/super-tic-tac-toe.png"
+    },
+    "lingo": {
+        "name": "Lingo",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 73,
+        "iframe": "https://yixboost-games.github.io/lingo",
+        "image": "https://yixboost-games.github.io/lingo/lingo.png"
+    },
+    "ovo": {
+        "name": "OvO",
+        "cat": "Running",
+        "new": "0",
+        "views": 2261,
+        "iframe": "https://yixboost-games.github.io/ovo",
+        "image": "https://yixboost-games.github.io/ovo/ovo.png"
+    },
+    "pong": {
+        "name": "Pong",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 306,
+        "iframe": "https://yixboost-games.github.io/pong",
+        "image": "https://yixboost-games.github.io/pong/pong.png"
+    },
+    "3d-city": {
+        "name": "3D City Building",
+        "cat": "Building",
+        "new": "0",
+        "views": 1784,
+        "iframe": "https://yixboost-games.github.io/3d-city",
+        "image": "https://yixboost-games.github.io/3d-city/3d-city.png"
+    },
+    "jumping-shell": {
+        "name": "Jumping Shell",
+        "cat": "Platformer",
+        "new": "0",
+        "views": 1164,
+        "iframe": "https://yixboost-games.github.io/jumping-shell",
+        "image": "https://yixboost-games.github.io/jumping-shell/jumping-shell.png"
+    },
+    "into-space-2": {
+        "name": "Into Space 2",
+        "cat": "Arcade",
+        "new": "0",
+        "views": 583,
+        "iframe": "https://yixboost-games.github.io/into-space-2",
+        "image": "https://yixboost-games.github.io/into-space-2/into-space-2.png"
+    },
+    "fireboy-and-watergirl-1": {
+        "name": "Fireboy and Watergirl 1",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 572,
+        "iframe": "https://yixboost-games.github.io/fireboy-and-watergirl-1",
+        "image": "https://yixboost-games.github.io/fireboy-and-watergirl-1/fireboy-and-watergirl-1.png"
+    },
+    "uno": {
+        "name": "UNO",
+        "cat": "Puzzle",
+        "new": "0",
+        "views": 515,
+        "iframe": "https://yixboost-games.github.io/uno",
+        "image": "https://yixboost-games.github.io/uno/uno.png"
+    },
+    "fairy-tail-vs-one-piece": {
+        "name": "Fairy Tail vs One Piece",
+        "cat": "Battle",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Ffairy-tail-vs-one-piece.xml&container=ig",
+        "views": 6652,
+        "image": "https://yixboost-games.github.io/fairy-tail-vs-one-piece/fairy-tail-vs-one-piece.png"
+    },
+    "dvd-screensaver": {
+        "name": "DVD Screensaver",
+        "cat": "Fake Screens",
+        "new": "0",
+        "views": 1129,
+        "iframe": "https://yixboost-games.github.io/dvd-screensaver",
+        "image": "https://yixboost-games.github.io/dvd-screensaver/dvd-screensaver.png"
+    },
+    "snow-rider": {
+        "name": "Snow Rider 3D",
+        "cat": "Kids",
+        "new": "0",
+        "views": 7231,
+        "iframe": "https://yixboost-games.github.io/snow-rider",
+        "image": "https://yixboost-games.github.io/snow-rider/snow-rider.png"
+    },
+    "sonic-advance-3": {
+        "name": "Sonic Advance 3",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=sonic-advance-3",
+        "views": 3025,
+        "image": "https://yixboost-games.github.io/sonic-advance-3/sonic-advance-3.png"
+    },
+    "super-smash-bros-64": {
+        "name": "Super Smash Bros 64",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=super-smash-bros-64",
+        "views": 4682,
+        "image": "https://yixboost-games.github.io/super-smash-bros-64/super-smash-bros-64.png"
+    },
+    "the-legend-of-zelda-ocarina-of-time": {
+        "name": "Ocarina of Time",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=the-legend-of-zelda-ocarina-of-time",
+        "views": 2377,
+        "image": "https://yixboost-games.github.io/the-legend-of-zelda-ocarina-of-time/the-legend-of-zelda-ocarina-of-time.png"
+    },
+    "the-legend-of-zelda-majoras-mask": {
+        "name": "Majora's Mask",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=the-legend-of-zelda-ocarina-of-time",
+        "views": 1390,
+        "image": "https://yixboost-games.github.io/the-legend-of-zelda-majoras-mask/the-legend-of-zelda-majoras-mask.png"
+    },
+    "pokemon-fire-red-version": {
+        "name": "Pokemon Fire Red",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=pokemon-fire-red",
+        "views": 19598,
+        "image": "https://yixboost-games.github.io/pokemon-fire-red-version/pokemon-fire-red-version.png"
+    },
+    "gacha-life": {
+        "name": "Gacha Life",
+        "cat": "Kids",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://119352167-681707411119903540.preview.editmysite.com/uploads/b/148762836-278323557803885963/files/gl.xml&container=ig",
+        "views": 291,
+        "image": "https://yixboost-games.github.io/gacha-life/gacha-life.png"
+    },
+    "five-nights-at-Freddys": {
+        "name": "Five Nights at Freddy's",
+        "cat": "Battle",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Ffive-nights-at-freddy-s.xml&container=ig",
+        "views": 1001,
+        "image": "https://yixboost-games.github.io/five-nights-at-Freddys/five-nights-at-Freddys.png"
+    },
+    "new-super-mario-bros": {
+        "name": "New Super Mario Bros",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=new-super-mario-bros",
+        "views": 4652,
+        "image": "https://yixboost-games.github.io/new-super-mario-bros/new-super-mario-bros.png"
+    },
+    "mario-vs-donkey-kong-mini-land-mayhem": {
+        "name": "Mario vs Donkey Kong",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-vs-donkey-kong-mini-land-mayhem",
+        "views": 132,
+        "image": "https://yixboost-games.github.io/mario-vs-donkey-kong-mini-land-mayhem/mario-vs-donkey-kong-mini-land-mayhem.png"
+    },
+    "mario-kart": {
+        "name": "Mario Kart",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-kart",
+        "views": 1420,
+        "image": "https://yixboost-games.github.io/mario-kart/mario-kart.png"
+    },
+    "pokemon-black-2": {
+        "name": "Pokemon Black Version 2",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=pokemon-black-2",
+        "views": 1585,
+        "image": "https://yixboost-games.github.io/pokemon-black-2/pokemon-black-2.png"
+    },
+    "Kirby-Super-Stars-Ultra": {
+        "name": "Kirby Super Stars Ultra",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=Kirby-Super-Stars-Ultra",
+        "views": 416,
+        "image": "https://yixboost-games.github.io/Kirby-Super-Stars-Ultra/Kirby-Super-Stars-Ultra.png"
+    },
+    "mario-party": {
+        "name": "Mario Party",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-party",
+        "views": 258,
+        "image": "https://yixboost-games.github.io/mario-party/mario-party.png"
+    },
+    "super-mario-64-nds": {
+        "name": "Super Mario 64 NDS",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=super-mario-64",
+        "views": 443,
+        "image": "https://yixboost-games.github.io/super-mario-64-nds/super-mario-64-nds.png"
+    },
+    "legend-of-zelda-phantom-hourglass": {
+        "name": "Phantom Hourglass",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=legend-of-zelda-phantom-hourglass",
+        "views": 117,
+        "image": "https://yixboost-games.github.io/legend-of-zelda-phantom-hourglass/legend-of-zelda-phantom-hourglass.png"
+    },
+    "legend-of-zelda-spirits-tracks": {
+        "name": "Spirits Tracks",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=legend-of-zelda-spirits-tracks",
+        "views": 139,
+        "image": "https://yixboost-games.github.io/legend-of-zelda-spirits-tracks/legend-of-zelda-spirits-tracks.png"
+    },
+    "donkey-kong-jungle-climber": {
+        "name": "DK Jungle Climber",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=donkey-kong-jungle-climber",
+        "views": 138,
+        "image": "https://yixboost-games.github.io/donkey-kong-jungle-climber/donkey-kong-jungle-climber.png"
+    },
+    "yoshi-island": {
+        "name": "Yoshi's Island",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=yoshi-island",
+        "views": 151,
+        "image": "https://yixboost-games.github.io/yoshi-island/yoshi-island.png"
+    },
+    "lego-batman-2": {
+        "name": "Lego Batman 2",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=lego-batman-2",
+        "views": 1358,
+        "image": "https://yixboost-games.github.io/lego-batman-2/lego-batman-2.png"
+    },
+    "call-of-duty-4": {
+        "name": "Call of Duty 4",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=call-of-duty-4",
+        "views": 1777,
+        "image": "https://yixboost-games.github.io/call-of-duty-4/call-of-duty-4.png"
+    },
+    "mario-&-sonic-at-the-olympic-winter-games": {
+        "name": "Olympic Winter Games",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-&-sonic-at-the-olympic-winter-games",
+        "views": 239,
+        "image": "https://yixboost-games.github.io/mario-&-sonic-at-the-olympic-winter-games/mario-&-sonic-at-the-olympic-winter-games.png"
+    },
+    "animal-crossing": {
+        "name": "Animal Crossing",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=animal-crossing",
+        "views": 370,
+        "image": "https://yixboost-games.github.io/animal-crossing/animal-crossing.png"
+    },
+    "mario-luigi-parters-in-time": {
+        "name": "M & L Parters in Time",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-luigi-parters-in-time",
+        "views": 323,
+        "image": "https://yixboost-games.github.io/mario-luigi-parters-in-time/mario-luigi-parters-in-time.png"
+    },
+    "super-mario-bros-3": {
+        "name": "Super Mario Bros 3",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=super-mario-bros-3",
+        "views": 931,
+        "image": "https://yixboost-games.github.io/super-mario-bros-3/super-mario-bros-3.png"
+    },
+    "mario-kart-super-circuit": {
+        "name": "Mario Kart Super Circuit",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=mario-kart-super-circuit",
+        "views": 459,
+        "image": "https://yixboost-games.github.io/mario-kart-super-circuit/mario-kart-super-circuit.png"
+    },
+    "super-mario-world": {
+        "name": "Super Mario World",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=super-mario-world",
+        "views": 920,
+        "image": "https://yixboost-games.github.io/super-mario-world/super-mario-world.png"
+    },
+    "sonic-advance": {
+        "name": "Sonic Advace",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=sonic-advance",
+        "views": 535,
+        "image": "https://yixboost-games.github.io/sonic-advance/sonic-advance.png"
+    },
+    "duck-tales": {
+        "name": "Duck Tales",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=duck-tales",
+        "views": 100,
+        "image": "https://yixboost-games.github.io/duck-tales/duck-tales.png"
+    },
+    "tetris-nes": {
+        "name": "Tetris",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=tetris",
+        "views": 714,
+        "image": "https://yixboost-games.github.io/tetris-nes/tetris-nes.png"
+    },
+    "1200-in-1": {
+        "name": "1200 in 1",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=1200-in-1",
+        "views": 420,
+        "image": "https://yixboost-games.github.io/1200-in-1/1200-in-1.png"
+    },
+    "run-dude": {
+        "name": "Run Dude",
+        "cat": "Running",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://6687936-724120437540123803.preview.editmysite.com/uploads/b/7547235-275003533907928317/files/rd.xml&container=ig",
+        "views": 260,
+        "image": "https://yixboost-games.github.io/run-dude/run-dude.png"
+    },
+    "papas-burgeria": {
+        "name": "Papa's Burgeria",
+        "cat": "Idle",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-burgeria.xml&container=ig",
+        "views": 586,
+        "image": "https://yixboost-games.github.io/papas-burgeria/papas-burgeria.png"
+    },
+    "papas-freezeria": {
+        "name": "Papa's Freezeria",
+        "cat": "Idle",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-freezeria.xml&container=ig",
+        "views": 771,
+        "image": "https://yixboost-games.github.io/papas-freezeria/papas-freezeria.png"
+    },
+    "papas-wingeria": {
+        "name": "Papa's Wingeria",
+        "cat": "Idle",
+        "new": "0",
+        "iframe": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-wingeria.xml&container=ig",
+        "views": 580,
+        "image": "https://yixboost-games.github.io/papas-wingeria/papas-wingeria.png"
+    },
+    "drift-hunters": {
+        "name": "Drift Hunters",
+        "cat": "Car",
+        "new": "0",
+        "views": 2425,
+        "iframe": "https://yixboost-games.github.io/drift-hunters",
+        "image": "https://yixboost-games.github.io/drift-hunters/drift-hunters.png"
+    },
+    "stacktris": {
+        "name": "Stacktris",
+        "cat": "Puzzle",
+        "new": "0",
+        "iframe": "https://abinbins.github.io/a6/stacktris/",
+        "views": 72,
+        "image": "https://yixboost-games.github.io/stacktris/stacktris.png"
+    },
+    "gobble": {
+        "name": "Gobble",
+        "cat": "Puzzle",
+        "new": "0",
+        "iframe": "https://abinbins.github.io/a4/gobble/",
+        "views": 85,
+        "image": "https://yixboost-games.github.io/gobble/gobble.png"
+    },
+    "doom": {
+        "name": "Doom",
+        "cat": "Emulator",
+        "new": "0",
+        "iframe": "/games/emulators/EmulatorJS/?id=doom",
+        "views": 603,
+        "image": "https://yixboost-games.github.io/doom/doom.png"
+    },
+    "survival-race": {
+        "name": "Survival Race",
+        "cat": "Racing",
+        "new": "0",
+        "iframe": "https://definitelyscience.com/assets/games/2024/more/survival-race/",
+        "views": 2125,
+        "image": "https://yixboost-games.github.io/survival-race/survival-race.png"
+    },
+    "jelly-truck": {
+        "name": "Jelly Truck",
+        "cat": "Car",
+        "new": "0",
+        "views": 95,
+        "iframe": "https://yixboost-games.github.io/jelly-truck",
+        "image": "https://yixboost-games.github.io/jelly-truck/jelly-truck.png"
+    },
+    "ovo-dimensions": {
+        "name": "OVO Dimensions",
+        "cat": "Running",
+        "new": 0,
+        "views": 185,
+        "iframe": "https://yixboost-games.github.io/ovo-dimensions",
+        "image": "https://yixboost-games.github.io/ovo-dimensions/ovo-dimensions.png"
+    },
+    "sausage-flip": {
+        "name": "Sausage Flip",
+        "cat": "Kids",
+        "new": 0,
+        "views": 231,
+        "iframe": "https://yixboost-games.github.io/sausage-flip",
+        "image": "https://yixboost-games.github.io/sausage-flip/sausage-flip.png"
+    },
+    "recoil": {
+        "name": "Recoil",
+        "cat": "Shooter",
+        "new": 0,
+        "views": 266,
+        "iframe": "https://yixboost-games.github.io/recoil",
+        "image": "https://yixboost-games.github.io/recoil/recoil.png"
+    },
+    "stickman-bike": {
+        "name": "Stickman Bike",
+        "cat": "Stickman",
+        "new": 0,
+        "views": 1854,
+        "iframe": "https://yixboost-games.github.io/stickman-bike",
+        "image": "https://yixboost-games.github.io/stickman-bike/stickman-bike.png"
+    },
+    "windows-xp-update": {
+        "name": "Windows XP Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 230,
+        "iframe": "https://yixboost-games.github.io/windows-xp-update",
+        "image": "https://yixboost-games.github.io/windows-xp-update/windows-xp-update.png"
+    },
+    "windows-7-bsod": {
+        "name": "Windows 7 BSOD",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 150,
+        "iframe": "https://yixboost-games.github.io/windows-7-bsod",
+        "image": "https://yixboost-games.github.io/windows-7-bsod/windows-7-bsod.png"
+    },
+    "windows-10-11-bsod": {
+        "name": "Windows 10/11 BSOD",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 171,
+        "iframe": "https://yixboost-games.github.io/windows-10-11-bsod",
+        "image": "https://yixboost-games.github.io/windows-10-11-bsod/windows-10-11-bsod.png"
+    },
+    "windows-98-update": {
+        "name": "Windows 98 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 29,
+        "iframe": "https://yixboost-games.github.io/windows-98-update",
+        "image": "https://yixboost-games.github.io/windows-98-update/windows-98-update.png"
+    },
+    "ubuntu-update": {
+        "name": "Ubuntu 12 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 14,
+        "iframe": "https://yixboost-games.github.io/ubuntu-update",
+        "image": "https://yixboost-games.github.io/ubuntu-update/ubuntu-update.png"
+    },
+    "ubuntu-22-update": {
+        "name": "Ubuntu 22 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 15,
+        "iframe": "https://yixboost-games.github.io/ubuntu-22-update",
+        "image": "https://yixboost-games.github.io/ubuntu-22-update/ubuntu-22-update.png"
+    },
+    "windows-vista-update": {
+        "name": "Windows Vista Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 7,
+        "iframe": "https://yixboost-games.github.io/windows-vista-update",
+        "image": "https://yixboost-games.github.io/windows-vista-update/windows-vista-update.png"
+    },
+    "android-update": {
+        "name": "Android Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 18,
+        "iframe": "https://yixboost-games.github.io/android-update",
+        "image": "https://yixboost-games.github.io/android-update/android-update.png"
+    },
+    "steamos-install": {
+        "name": "SteamOS Install",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 33,
+        "iframe": "https://yixboost-games.github.io/steamos-install",
+        "image": "https://yixboost-games.github.io/steamos-install/steamos-install.png"
+    },
+    "funny-windows-update": {
+        "name": "Funny Windows Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 24,
+        "iframe": "https://yixboost-games.github.io/funny-windows-update",
+        "image": "https://yixboost-games.github.io/funny-windows-update/funny-windows-update.png"
+    },
+    "windows-8-update": {
+        "name": "Windows 8 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 10,
+        "iframe": "https://yixboost-games.github.io/windows-8-update",
+        "image": "https://yixboost-games.github.io/windows-8-update/windows-8-update.png"
+    },
+    "windows-7-update": {
+        "name": "Windows 7 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 15,
+        "iframe": "https://yixboost-games.github.io/windows-7-update",
+        "image": "https://yixboost-games.github.io/windows-7-update/windows-7-update.png"
+    },
+    "windows-7-boot-fail": {
+        "name": "Windows 7 Boot Fail",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 15,
+        "iframe": "https://yixboost-games.github.io/windows-7-boot-fail",
+        "image": "https://yixboost-games.github.io/windows-7-boot-fail/windows-7-boot-fail.png"
+    },
+    "dos-simulator": {
+        "name": "DOS Simulator",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 35,
+        "iframe": "https://yixboost-games.github.io/dos-simulator",
+        "image": "https://yixboost-games.github.io/dos-simulator/dos-simulator.png"
+    },
+    "windows-8-bsod": {
+        "name": "Windows 8 BSOD",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 8,
+        "iframe": "https://yixboost-games.github.io/windows-8-bsod",
+        "image": "https://yixboost-games.github.io/windows-8-bsod/windows-8-bsod.png"
+    },
+    "bios": {
+        "name": "BIOS Simulator",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 31,
+        "iframe": "https://yixboost-games.github.io/bios",
+        "image": "https://yixboost-games.github.io/bios/bios.png"
+    },
+    "apple-update": {
+        "name": "Apple Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 81,
+        "iframe": "https://yixboost-games.github.io/apple-update",
+        "image": "https://yixboost-games.github.io/apple-update/apple-update.png"
+    },
+    "new-android-update": {
+        "name": "NEW Android Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 22,
+        "iframe": "https://yixboost-games.github.io/new-android-update",
+        "image": "https://yixboost-games.github.io/new-android-update/new-android-update.png"
+    },
+    "windows-phone-update": {
+        "name": "Windows Phone Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 30,
+        "iframe": "https://yixboost-games.github.io/windows-phone-update",
+        "image": "https://yixboost-games.github.io/windows-phone-update/windows-phone-update.png"
+    },
+    "windows-10-update": {
+        "name": "Windows 10 Update",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 26,
+        "iframe": "https://yixboost-games.github.io/windows-10-update",
+        "image": "https://yixboost-games.github.io/windows-10-update/windows-10-update.png"
+    },
+    "windows-11-install": {
+        "name": "Windows 11 Install",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 27,
+        "iframe": "https://yixboost-games.github.io/windows-11-install",
+        "image": "https://yixboost-games.github.io/windows-11-install/windows-11-install.png"
+    },
+    "hacker-typer": {
+        "name": "Hacker Typer",
+        "cat": "Fake Screens",
+        "new": 0,
+        "views": 76,
+        "iframe": "https://yixboost-games.github.io/hacker-typer",
+        "image": "https://yixboost-games.github.io/hacker-typer/hacker-typer.png"
+    },
+    "pixel-speedrun": {
+        "name": "Pixel Speedrun",
+        "cat": "Running",
+        "new": 0,
+        "views": 21,
+        "iframe": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://164395038-759385720163048275.preview.editmysite.com/uploads/b/139890129-591973326979111284/files/pisprun.xml&container=ig",
+        "image": "https://yixboost-games.github.io/pixel-speedrun/pixel-speedrun.png"
+    },
+    "highway-traffic": {
+        "name": "Highway Traffic",
+        "cat": "Racing",
+        "new": 0,
+        "views": 243,
+        "iframe": "https://dnrweqffuwjtx.cloudfront.net/games/2022/unity/highway-traffic/index.html",
+        "image": "https://yixboost-games.github.io/highway-traffic/highway-traffic.png"
+    },
+    "smashkarts": {
+        "name": "Smashkarts",
+        "cat": "Racing",
+        "new": 0,
+        "views": 136,
+        "iframe": "https://geometrykarts.com/",
+        "image": "https://yixboost-games.github.io/smashkarts/smashkarts.png"
+    },
+    "ragdoll-hit": {
+        "name": "Ragdoll Hit",
+        "cat": "Battle",
+        "new": 0,
+        "views": 520,
+        "iframe": "https://yixboost-games.github.io/ragdoll-hit",
+        "image": "https://yixboost-games.github.io/ragdoll-hit/ragdoll-hit.png"
+    },
+    "stick-defenders": {
+        "name": "Stick Defenders",
+        "cat": "Battle",
+        "new": 0,
+        "views": 196,
+        "iframe": "https://yixboost-games.github.io/stick-defenders",
+        "image": "https://yixboost-games.github.io/stick-defenders/stick-defenders.png"
+    },
+    "blockpost": {
+        "name": "Blockpost",
+        "cat": "Shooter",
+        "new": 0,
+        "views": 907,
+        "iframe": "https://yixboost-games.github.io/blockpost",
+        "image": "https://yixboost-games.github.io/blockpost/blockpost.png"
+    },
+    "idle-digging-tycoon": {
+        "name": "Idle Digging Tycoon",
+        "cat": "Idle",
+        "new": 0,
+        "views": 159,
+        "iframe": "https://yixboost-games.github.io/idle-digging-tycoon",
+        "image": "https://yixboost-games.github.io/idle-digging-tycoon/idle-digging-tycoon.png"
+    },
+    "truck-loader": {
+        "name": "Truck Loader",
+        "cat": "Car",
+        "new": 0,
+        "views": 66,
+        "iframe": "https://yixboost-games.github.io/truck-loader",
+        "image": "https://yixboost-games.github.io/truck-loader/truck-loader.png"
+    },
+    "tower-of-destiny": {
+        "name": "Tower of Destiny",
+        "cat": "Platformer",
+        "new": 0,
+        "views": 74,
+        "iframe": "https://yixboost-games.github.io/tower-of-destiny",
+        "image": "https://yixboost-games.github.io/tower-of-destiny/tower-of-destiny.png"
+    },
+    "toaster-dash": {
+        "name": "Toaster Dash",
+        "cat": "Kids",
+        "new": 0,
+        "views": 38,
+        "iframe": "https://yixboost-games.github.io/toaster-dash",
+        "image": "https://yixboost-games.github.io/toaster-dash/toaster-dash.png"
+    },
+    "short-ride": {
+        "name": "Short Ride",
+        "cat": "Racing",
+        "new": 0,
+        "views": 254,
+        "iframe": "https://yixboost-games.github.io/short-ride",
+        "image": "https://yixboost-games.github.io/short-ride/short-ride.png"
+    },
+    "there-is-no-game": {
+        "name": "There is no Game",
+        "cat": "Funny",
+        "new": 0,
+        "views": 70,
+        "iframe": "https://yixboost-games.github.io/there-is-no-game",
+        "image": "https://yixboost-games.github.io/there-is-no-game/there-is-no-game.png"
+    },
+    "uphill-rush": {
+        "name": "Uphill Rush",
+        "cat": "Racing",
+        "iframe": "https://unblocked-games.org/games/uphill-rush/",
+        "new": 0,
+        "views": 30,
+        "image": "https://yixboost-games.github.io/uphill-rush/uphill-rush.png"
+    }
+}

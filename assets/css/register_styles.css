@@ -1,0 +1,128 @@
+  /* Base Space Background and Font */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: radial-gradient(circle at center, #0a0d2c, #000) fixed;
+    color: #ffffff;
+    font-family: 'Courier New', monospace;
+    overflow: hidden;
+    animation: backgroundPulse 5s infinite;
+  }
+
+  @keyframes backgroundPulse {
+    0%, 100% { background: radial-gradient(circle at center, #0a0d2c, #000); }
+    50% { background: radial-gradient(circle at center, #1a237e, #000); }
+  }
+
+  /* Main Terminal Interface */
+  .terminal {
+    background: rgba(15, 23, 42, 0.85);
+    border: 1px solid #3b82f6;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(59, 130, 246, 0.7);
+    padding: 2rem;
+    max-width: 600px;
+    width: 90%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .title {
+    font-size: 2.8rem;
+    color: #60a5fa;
+    text-shadow: 0 0 20px rgba(59, 130, 246, 0.7);
+    animation: textPulse 3s infinite;
+  }
+
+  @keyframes textPulse {
+    0%, 100% { text-shadow: 0 0 10px rgba(59, 130, 246, 0.5); }
+    50% { text-shadow: 0 0 30px rgba(59, 130, 246, 0.8); }
+  }
+
+  /* Form Container and Steps */
+  .form-container {
+    margin-top: 2rem;
+    position: relative;
+  }
+
+  .form-step {
+    display: none;
+    font-size: 1.1rem;
+    color: #d1d5db;
+    animation: fadeIn 0.8s ease-in-out forwards;
+  }
+
+  .form-step.active {
+    display: block;
+  }
+
+  .form-step input {
+    width: 100%;
+    padding: 0.8rem;
+    margin: 0.8rem 0;
+    border: 1px solid #3b82f6;
+    border-radius: 5px;
+    background: rgba(30, 41, 59, 0.85);
+    color: #dbeafe;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0px 0px 10px rgba(59, 130, 246, 0.2);
+  }
+
+  .form-step input:focus {
+    outline: none;
+    box-shadow: 0px 0px 20px rgba(59, 130, 246, 0.6);
+  }
+
+  /* Button Styles */
+  .next-button {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    border: none;
+    background: linear-gradient(45deg, #1e40af, #2563eb);
+    color: #ffffff;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.6);
+    transition: all 0.4s ease;
+    animation: buttonPulse 2s infinite;
+  }
+
+  @keyframes buttonPulse {
+    0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.6); }
+    50% { box-shadow: 0 0 40px rgba(96, 165, 250, 0.8); }
+  }
+
+  .next-button:hover {
+    background: linear-gradient(45deg, #3b82f6, #60a5fa);
+    transform: scale(1.05);
+  }
+
+  /* Particles */
+  .particle {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background: #3b82f6;
+    border-radius: 50%;
+    pointer-events: none;
+    animation: drift 5s linear infinite;
+    opacity: 0.75;
+  }
+
+  @keyframes drift {
+    from { transform: translateY(0); opacity: 0.75; }
+    to { transform: translateY(-50vh); opacity: 0; }
+  }
+
+  /* Fade-in Animation */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
